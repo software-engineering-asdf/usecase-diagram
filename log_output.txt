@@ -1,0 +1,26 @@
+[haha4825] Fri May 9 01:27:36 2025 +0900 충돌 해결 c3bdf30
+[haha4825] Fri May 9 01:24:55 2025 +0900 충돌 해결 54f1931
+[jjjonghyeon] Fri May 9 01:19:59 2025 +0900 최종 2911094
+[jjjonghyeon] Fri May 9 01:09:50 2025 +0900 최종 1b59c2f
+[Yubin] Fri May 9 01:09:18 2025 +0900 Delete 과제1_최종/use_case_diagrams/최종.mfj 2a44b56
+[Yubin] Fri May 9 01:09:02 2025 +0900 Delete 과제1_최종/use_case_diagrams/최종.mdj 84b8ac6
+[ybkang1108] Fri May 9 01:06:40 2025 +0900 diagram 배치 수정 98262d2
+[jjjonghyeon] Fri May 9 01:04:51 2025 +0900 requirementlist최종 b79e26c
+[haha4825] Fri May 9 00:57:44 2025 +0900 usecase diagram 최종본 9af601c
+[jjjonghyeon] Thu May 8 03:48:03 2025 +0900 requirementslist워드작업 4f2b1a9
+[jjjonghyeon] Thu May 8 03:43:08 2025 +0900 Requirementslist워드작업 b0e137a
+[ybkang1108] Thu May 8 03:14:11 2025 +0900 diagram 배치 수정 697501a
+[ybkang1108] Thu May 8 02:45:38 2025 +0900 use case descriptions를 워드로 변경 d226bfa
+[ybkang1108] Thu May 8 02:44:37 2025 +0900 파일 구조 정리 7f85c6d
+[haha4825] Wed May 7 23:18:21 2025 +0900 최최종 23580be
+[haha4825] Wed May 7 23:14:47 2025 +0900 최종 89f490a
+[jjjonghyeon] Wed May 7 19:18:58 2025 +0900 jonghyun 3f332c4
+[haha4825] Wed May 7 19:09:29 2025 +0900 Delete hakbeom b0505b4
+[haha4825] Wed May 7 19:08:34 2025 +0900 Create hakbeom folder bc66f71
+[haha4825] Wed May 7 19:07:50 2025 +0900 Delete hakbeom ac7b105
+[ppirabbang] Wed May 7 18:57:53 2025 +0900 Create hakbeom 2f12f27
+[학범] Wed May 7 18:56:20 2025 +0900 C211048_hakbeom ba78109
+[haha4825] Wed May 7 18:54:40 2025 +0900 taewon 996a5d5
+[ybkang1108] Wed May 7 18:45:13 2025 +0900 add README.md 0cf308e
+[ybkang1108] Wed May 7 18:43:53 2025 +0900 use case diagram - 4,6,8 295c17d
+[ybkang1108] Wed May 7 18:41:22 2025 +0900 first commit 58055ad
